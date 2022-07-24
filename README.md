@@ -9,7 +9,7 @@ The objective of the analysis is to build a table using data stored in a JavaScr
 ## Results
 
 Image below shows the HTML page. Filters are located on the bottom left of the page.
-![](static/images/Index_HTML_Page.png)
+![](static/images/HTML_Page.png)
 
 
 Summary of How to perform the search 
