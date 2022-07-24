@@ -24,7 +24,7 @@ The example above shows that there's one sighting correspondent to the entire se
 ---
 ## Summary
 
-The recomendations to the CEO would be to increase the amount of drivers in rural and suburban cities in order to supply the ride demand in those cities therefore reduce the average fare per ride and driver.  
+One drawback of this webpage is that the user would need to refer to the data.js file in order to know all the criterias that can be input in this webpage. In order to fix this, an alternative would be to incorporate the data file into the webpage on a form of a list dropdown menu or a link to the data file so the user can aquickly visualize the criterias that can be used  
 
 
 
