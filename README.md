@@ -8,14 +8,11 @@ The objective of the analysis is to build a table using data stored in a JavaScr
 ---
 ## Results
 
-Image below shows the HTML page.
+Image below shows the HTML page. Filters are located on the bottom left of the page.
 ![](static/images/Index_HTML_Page.png)
 
-The summary of the data provides the following observations: 
-* There is a higher demand for rides in suburban and rural cities than urban cities compared to the total drivers available.
-* Urban cities have a ratio of about 2 drivers per ride, (more drivers than required rides).
-* The average fares per ride and per driver is higher in rural and suburban cities compared to the urban cities, due to the higher ride demand compared to available drivers. 
-* Total fare revenue is higher in urban cities compared to suburban and rural cities, due to the total amount of rides (61% higher than suburban and 92% higher than rural). See weekly total fare by city plot.
+Summary of How to perform the search 
+To perform the search, the user should fill in the different criterias correspondent to Date, City, State, Country and Shape and press enter  
 ![](analysis/Weekly_total_fare.png)
 
 
