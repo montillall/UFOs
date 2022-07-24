@@ -18,7 +18,7 @@ To perform the search, the user should fill in the different criterias correspon
 ![](static/images/Search_example.png)
 
 The example above shows that there's one sighting correspondent to the entire search criteria. In order to reset the page, the user should click on the UFO Sightings located on the top left of the page.
-![](static/images/Reset_Button.png)
+![](static/images/Reset_Button_.png)
 
 
 ---
