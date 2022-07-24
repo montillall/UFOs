@@ -15,7 +15,7 @@ Image below shows the HTML page. Filters are located on the bottom left of the p
 ### Perform the search 
 
 To perform the search, the user should fill in the different criterias correspondent to Date, City, State, Country and Shape and press enter. As an example, let us search for the search on the following criterias: Date= 1/1/2010, City= la mesa, State= ca, Country= us and Shape= triangle  
-![](static/images/Search_Example.png)
+![](static/images/Search_example.png)
 
 
 ---
