@@ -9,7 +9,7 @@ The objective of the analysis is to build a table using data stored in a JavaScr
 ## Results
 
 Image below shows the HTML page.
-![](analysis/Pyber_Summary_by_City.png)
+![](static/images/Index_HTML_Page.png)
 
 The summary of the data provides the following observations: 
 * There is a higher demand for rides in suburban and rural cities than urban cities compared to the total drivers available.
