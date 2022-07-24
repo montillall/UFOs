@@ -11,6 +11,7 @@ The objective of the analysis is to build a table using data stored in a JavaScr
 Image below shows the HTML page. Filters are located on the bottom left of the page.
 ![](static/images/Index_HTML_Page.png)
 
+
 Summary of How to perform the search 
 To perform the search, the user should fill in the different criterias correspondent to Date, City, State, Country and Shape and press enter  
 ![](analysis/Weekly_total_fare.png)
